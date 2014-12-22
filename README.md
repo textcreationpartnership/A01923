@@ -36,9 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A panegyrique of congratulation for the concord of the realmes of Great Britaine in vnitie of religi
+
 #####Body#####
-A panegyrique of congratulation for the concord of the realmes of Great Britaine in vnitie of religi
+
+1. A Panegyrique of Congratulation for the concord of the realmes of great Brittaine, in vnitie of religion vnder one King.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
